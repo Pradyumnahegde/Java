@@ -1,0 +1,2 @@
+In each category of oop's concept, there are different code files which use oop's concept :- the classes are linked each other by extends or implements(interface concept) or
+by calling class objects in main class.
